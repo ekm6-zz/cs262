@@ -1,0 +1,17 @@
+Enoch Mwesigwa
+CS 262
+Lab 1
+
+Idea 1)
+    Cross platform online/offline mobile game that essentially takes the rules of the card game war and adds new rules
+    ie)
+        -each player draws a hand of 6 and choose 3
+        -poker style rules of bonus such as 3 of a kind, 3 of a suite... ect
+        -each round goes in phases up to 5 (best out of 5)
+        - insead of suites they'll be called kingdoms
+
+Idea 2)
+    Platform for people sharing a house to streamline
+        -communication
+        -splitting bills
+        -planning and managing chores

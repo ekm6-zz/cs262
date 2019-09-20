@@ -1,0 +1,35 @@
+Enoch Mwesigwa
+CS 262
+Lab 1
+
+1) Demographics
+    a) junior
+    b) BCS
+    c) 
+        112-B+ 
+        212- currently enroled
+
+2) Technical
+    a) 
+        Database-driven websites - spent the summer as a frontend developer, 
+            worked on a complaint and dispute tracker for a debt collection company
+        Portable devices applications - personal projects toying with react-native
+
+    b) 
+    not really
+
+    c) nope
+
+    d) see ideas.txt
+
+3) Personality
+    a) 
+    	O - 87.3%
+	C-  50%
+	E-  62.5%
+	A- 65%
+	N- 50%
+
+    b) Samuel Zeleke,  Bernard Boadu
+
+4) Nope
